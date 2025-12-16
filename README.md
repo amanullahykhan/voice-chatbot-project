@@ -14,7 +14,7 @@
 
 </div>
 
-
+![Aiko Chatbot Interface](chatbot.png)
 ## ✨ **Features**
 
 ### 🎙️ **Ultra-Natural Voice**
